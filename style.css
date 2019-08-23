@@ -1,0 +1,11 @@
+svg{
+background: rgb(200,200,200);
+}
+
+rect{
+   /* stroke=border */
+   
+    stroke: red;   
+
+   fill: aqua;
+}
